@@ -14,7 +14,7 @@ Feature: authentificaton valide fb
     And jj "18"
     And mm "12"
     And aa "1994"
-    And genre
+    And genre "f"
     And clique sur s'inscrire  
     Then affche test ok 
   
